@@ -1,0 +1,2 @@
+plt.savefig('training_data_plot.png')
+plt.savefig('fitted_line_plot.png')
