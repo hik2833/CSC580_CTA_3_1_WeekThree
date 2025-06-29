@@ -1,6 +1,6 @@
 """
 CSC580 CTA 3.1 - Linear Regression with TensorFlow
-Author: Rivera Matthews
+Author: Dr.Rivera Matthews
 
 Description:
 -------------
